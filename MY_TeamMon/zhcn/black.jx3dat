@@ -1,0 +1,16 @@
+return {
+	BUFF = {},
+	FOCUS = {},
+	DOODAD = {},
+	TALK = {},
+	CASTING = {},
+	NPC = {},
+	DEBUFF = {},
+	__meta = {
+		szLang = "zhcn",
+		szAuthor = "乘物而游心",
+		nTimeStamp = 1565219391,
+		szServer = "五台山",
+	},
+	CHAT = {},
+}
