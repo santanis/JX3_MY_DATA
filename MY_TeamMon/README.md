@@ -1,6 +1,6 @@
 #### 详细介绍
 
-1. **以[南宫伯](https://jx3-plugin.kingsoft.com/DBM/24)&[毒蘑菇]()聚聚的数据为*蓝本*。**
+1. **以[南宫伯](https://code.aliyun.com/nangongbo/JX3_MY_DATA/tree/master/MY_TeamMon)&[毒蘑菇]()聚聚的数据为*蓝本*。**
 
 2. 历史副本保留至10人普通模式`狼牙堡·战兽山`与`狼牙堡·燕然峰`。新团本更新至`尘归海·巨冥湾`。新五人英雄副本陆续更新中。
 
